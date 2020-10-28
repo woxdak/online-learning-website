@@ -1,5 +1,5 @@
 # OnlineLearningWebsite
-
+This project uses Angular matererial and FxLayout to render content from the web app on mobile devices.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
